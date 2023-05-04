@@ -1,0 +1,30 @@
+body{
+	background-color: #B8E7E1;
+}
+hr{
+	border-color: #B8E7E1;
+    border-style: none;
+    border-top: dotted;
+    border-width: 6px;
+    width: 4%;
+}
+img{
+  display: inline-block;
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+h2{
+	color: #BE5A83;
+}
+h1,h3{
+	color: #2B3467;
+	font-family: cursive, Times, serif;
+}
+p,td,a,label {
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  font-size: 18px;
+}
